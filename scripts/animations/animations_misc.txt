@@ -1,0 +1,12 @@
+event MenuClose
+{
+	Animate HudMenu								Alpha			"0"									Linear	0.0		0.1
+	Animate HudMenu								SelectionAlpha	"0"									Linear	0.0		0.1
+	Animate HudMenu								FGColor			"Blank"								Linear	0.0		0.1
+	Animate HudMenu								MenuColor		"Blank"								Linear	0.0		0.1
+	Animate HudMenu								ItemColor		"Blank"								Linear	0.0		0.1
+}
+
+event CompetitiveGame_LowerChatWindow {}
+event CompetitiveGame_RestoreChatWindow {}
+event HudTournament_MoveChatWindow {}
