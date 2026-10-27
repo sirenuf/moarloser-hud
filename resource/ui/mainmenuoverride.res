@@ -1,4 +1,3 @@
-#base "vguipreload.res"
 "Resource/UI/MainMenuOverride.res"
 {
 	MainMenuOverride
