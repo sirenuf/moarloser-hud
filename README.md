@@ -1,7 +1,11 @@
 # Moarloser / Enufhud
-This hud is largely based on m0rehud classic/6.x from Hypnootize and the default TF2 hud.<br>
-The source scheme is derived and stripped from moeshud (Rayshud)<br>
-The main menu is from Broeselhud, slightly modified<br>
+This hud is a fork of the legendary **m0rehud** created by [m0re](https://web.archive.org/web/20090805060945/http://www.m0re.nocrits.com/) somewhere in **2008-2009**.<br><br>
+It is based on an old version of [Hypnootize's](https://github.com/Hypnootize/m0rehud) maintained fork. Specifically **m0rehud 6.x/classic**
+
+* The **source scheme** is a stripped down customised version of **old [moeshud](https://github.com/Hypnootize/TF2-HUDs-Archive/blob/master/Updated%20HUDs%20List.md)**, which in turn was based on **old [rayshud](https://github.com/raysfire/rayshud)**.
+  * **Additionally**, the source scheme is fitted with **patched aliased Microsoft fonts** for Linux's FreeType renderer on Source 1.
+* The main menu is a slightly modified version of the forked [**Broeselhud**](https://github.com/TF2HUDsArchive/Broesel-Hud) by Hypnootize.
+* The hud is built to largely inherit from the default hud. Some improvements are carried over from [idhud](https://github.com/idhud-tf2/idhud).
 
 # Goal
 My goal with this hud was just creating a barebones hud which stays true to the original TF2 hud and aesthetic, while implementing my own taste of visual clarity.<br>
