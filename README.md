@@ -7,6 +7,8 @@ It is based on an old version of [Hypnootize's](https://github.com/Hypnootize/m0
 * The main menu is a slightly modified version of the forked [**Broeselhud**](https://github.com/TF2HUDsArchive/Broesel-Hud) by Hypnootize.
 * The hud is built to largely inherit from the default hud. Some improvements are carried over from [idhud](https://github.com/idhud-tf2/idhud).
 
+This hud supports both Windows and Linux.
+
 # Goal
 My goal with this hud was just creating a barebones hud which stays true to the original TF2 hud and aesthetic, while implementing my own taste of visual clarity.<br>
 It doesn't have a strict design language. The goal is just utilitarian if anything.<br>
