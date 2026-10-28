@@ -1,4 +1,4 @@
-// Intended to be read by clientscheme.res
+// Intended to be read by sourcescheme.res
 
 // All bitmap fonts used in Source on the Windows build
 // are patched so regardless of antialias 0 FreeType always
