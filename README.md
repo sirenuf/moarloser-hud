@@ -1,16 +1,17 @@
 # Moarloser / Enufhud
 This hud is largely based on m0rehud classic/6.x from Hypnootize and the default TF2 hud.<br>
-It's sourcescheme is derived and stripped from moeshud (Rayshud)<br>
-The main menu is from Broeselhud. Slightly modified<br>
+The source scheme is derived and stripped from moeshud (Rayshud)<br>
+The main menu is from Broeselhud, slightly modified<br>
 
 # Goal
-My goal with this hud was just creating a barebones hud which stays true to the original TF2 hud and aesthetic, while implementing my own taste of what visual clarity should be.<br>
+My goal with this hud was just creating a barebones hud which stays true to the original TF2 hud and aesthetic, while implementing my own taste of visual clarity.<br>
 It doesn't have a strict design language. The goal is just utilitarian if anything.<br>
 
 # Patched fonts on Linux
-I do not like the anti-aliased font replacements Valve ships as substitute for the Microsoft fonts used in the engine. <br>
-Source 1's FreeType renderer works very differently to the one the Windows builds use, and doesn't respect the antialias attribute.<br>
-That's why this hud ships with patched with all the MS fonts used in the original Source 1 windows source scheme. They should render 1:1 as they do on Windows.<br>
+I do not like the anti-aliased font replacements Valve ships as substitute for the Microsoft fonts used in the Source 1 source scheme. <br>
+Source 1's Linux font renderer uses FreeType, which works differently to the font renderer used on Windows builds of Source 1. One quirk is that it outright ignores the `antialias` attribute on fonts.<br>
+
+That's why this hud ships with patched MS fonts, used in the original Source 1 windows source scheme. They should render 1:1 as they do on Windows.<br>
 
 See the screenshots below.<br>
 
