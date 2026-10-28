@@ -2,7 +2,7 @@
 This hud is a fork of the legendary **m0rehud** created by [m0re](https://web.archive.org/web/20090805060945/http://www.m0re.nocrits.com/) somewhere in **2008-2009**.<br><br>
 It is based on an old version of [Hypnootize's](https://github.com/Hypnootize/m0rehud) maintained fork. Specifically **m0rehud 6.x/classic**
 
-* The **source scheme** is a stripped down customised version of **old [moeshud](https://github.com/Hypnootize/TF2-HUDs-Archive/blob/master/Updated%20HUDs%20List.md)**, which in turn was based on **old [rayshud](https://github.com/raysfire/rayshud)**.
+* The **source scheme** is a stripped down customised version of **old [Moes Hud](https://www.dropbox.com/scl/fi/fyoemu7gyxhtkp7p4c5ex/moeshud.7z?rlkey=v4kfev7kdvuoopjp291o0im5z&dl=00)**, which in turn was based on the classic **[rayshud](https://github.com/raysfire/rayshud)** hud, created in 2012.
   * **Additionally**, the source scheme is fitted with **patched aliased Microsoft fonts** for Linux's FreeType renderer on Source 1.
 * The main menu is a slightly modified version of the forked [**Broeselhud**](https://github.com/TF2HUDsArchive/Broesel-Hud) by Hypnootize.
 * The hud is built to largely inherit from the default hud. Some improvements are carried over from [idhud](https://github.com/idhud-tf2/idhud).
